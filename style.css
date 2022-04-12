@@ -1,7 +1,16 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+}
 .contribute {
     font-family: 'Permanent Marker', cursive;
 }
 #logo {
-    height:60px;
-    width:60px;
+    height:90px;
+    width:90px;
+}
+li>a {
+    font-size:25px;
+}
+.dropdown-text {
+    font-size:16px;
 }
