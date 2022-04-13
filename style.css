@@ -5,12 +5,12 @@ body {
     font-family: 'Permanent Marker', cursive;
 }
 #logo {
-    height:90px;
-    width:90px;
+    height:85px;
+    width:85px;
 }
 li>a {
-    font-size:25px;
+    font-size:26px;
 }
-.dropdown-text {
-    font-size:16px;
+#dropdown-text {
+    font-size:17px;
 }
