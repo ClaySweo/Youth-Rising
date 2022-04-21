@@ -2,7 +2,9 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
 }
 .contribute {
-    font-family: 'Permanent Marker'
+    font-family: 'Permanent Marker';
+    color:black;
+    text-align: center;
 }
 #logo {
     height:85px;
@@ -26,4 +28,20 @@ h1 {
     text-align:center;
     color:white;
     font-size:70px;
+}
+
+.carousel-item {
+    height: "100px"
+}
+
+.contribute-back {
+        background-color: grey
+}
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size:45px;
+}
+ul>li {
+    font-size: 36px;
 }
