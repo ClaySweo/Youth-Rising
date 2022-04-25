@@ -60,3 +60,8 @@ footer {
     height:300px;
     width:600px;
 }
+#past-events {
+    text-align: center;
+    font-weight: bolder;
+    font-size:75px;
+}
